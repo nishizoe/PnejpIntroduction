@@ -1,0 +1,46 @@
+.jumbotron {
+    margin-top: 100px;
+    margin-bottom: 400px;
+}
+
+.order-current {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 48px;
+    font-weight: bold;
+    /*border-radius: 100px;*/
+    margin-left: 5px;
+}
+
+.order {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 24px;
+    /*font-weight: bold;*/
+    /*border-radius: 50px;*/
+    margin-left: 5px;
+}
+
+.wizard {
+    padding-top: 10px;
+    margin-bottom: 400px;
+}
+
+.square {
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.rule {
+    border-width: 10px;
+    border-style: double;
+    border-radius: 10px;
+    padding: 10px;
+}
